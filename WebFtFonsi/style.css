@@ -1,0 +1,12 @@
+h1{
+    font-size: 30px;
+    color: red;
+    transition: 3s;
+    position:absolute;
+    top: 50%;
+    right: 50%;
+}
+h1:hover{
+    font-size: 50px;
+    color: green;
+}
